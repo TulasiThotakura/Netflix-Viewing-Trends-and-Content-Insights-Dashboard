@@ -41,7 +41,7 @@ The goal is to uncover insights on content distribution, release year trends, au
 - **Country-wise Production Overview**
 - **Top Directors and Actors**
 - **Ratings Distribution and Viewer Demographics**
-- **Yearly Release Trends (2000–2023)**
+- **Yearly Release Trends (1925–2021)**
 
 ---
 
